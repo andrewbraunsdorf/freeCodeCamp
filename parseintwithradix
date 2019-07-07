@@ -1,0 +1,8 @@
+function convertToInteger(str) {
+  var a = parseInt(str, 2);
+
+    return a;
+  console.log(parseInt(str, 19));
+}
+
+convertToInteger("10011");
